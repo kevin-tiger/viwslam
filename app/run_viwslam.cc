@@ -2,7 +2,7 @@
 #include "estimator/parameters.h"
 #include "estimator/estimator.h"
 
-string data_folder = "/home/hongfeng/workspace/unidrive_v9p_host/dataset/urban39-pankyo/";
+string data_folder = "/workspace_18_04/dataset/urban39-pankyo/";
 string config_file = "config/kaist/kaist_cam0_viwo_38-39.yaml";
 
 vector<ImageData> vec_img_datas;
